@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "regexswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KeanuPang/RegexSwift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "cb8419519d50094229191fd05d47fa04bb7de6ef"
+      }
+    }
+  ],
+  "version" : 2
+}
